@@ -25,7 +25,7 @@ namespace PomarInterativo
                 Console.WriteLine("1 - Ver relatório geral do pomar");
                 Console.WriteLine("2 - Ver relatório de uma árvore específica");
                 Console.WriteLine("3 - Simular nova safra");
-                Console.WriteLine("0 - Sair");
+                Console.WriteLine("0 - Sair do sistema e encerrar o programa");
                 Console.Write("Escolha uma opção: ");
 
                 string opcao = Console.ReadLine();
