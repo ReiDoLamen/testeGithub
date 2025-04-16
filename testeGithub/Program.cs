@@ -13,7 +13,7 @@ namespace PomarDeMacas
             // Adiciona árvores com maçãs aleatórias
             meuPomar.PlantarArvores(10); // 10 árvores
 
-            // Exibe relatório completo
+            // Exibe relatório completoeee
             meuPomar.ExibirRelatorio();
 
             Console.WriteLine("\nPressione qualquer tecla para sair...");
